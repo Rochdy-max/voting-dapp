@@ -1,2 +1,2 @@
-# vote-my-guy
+# voting-dapp
 A voting platform built over Blockchain technology
